@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/xarcodex/inhandip/issues"
   },
-  "homepage": "https://github.com/xarcodex/inhandip#readme"
+  "homepage": "https://github.com/xarcodex/inhandip#readme",
+  "devDependencies": {
+    "electron": "^15.1.1"
+  }
 }
